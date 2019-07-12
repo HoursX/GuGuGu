@@ -1,5 +1,5 @@
 CREATE  DATABASE  GuGuGu
-ALTER DATABASE [GuGuGu] COLLATE Chinese_PRC_CI_AS
+ALTER DATABASE [GuGuGu] COLLATE Chinese_PRC_CI_AS --vs数据库安装使用
 go
 use GuGuGu
 go
